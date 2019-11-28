@@ -1,0 +1,28 @@
+14:42:26.104 [main] INFO  dev.console.App - Bonjour Slf4J !
+14:42:26.109 [main] INFO  dev.console.App - Implementation Logback
+14:42:42.409 [main] INFO  dev.console.App - Bonjour Slf4J !
+14:42:42.415 [main] INFO  dev.console.App - Implementation Logback
+14:43:28.051 [main] INFO  dev.console.App - Bonjour Slf4J !
+14:43:28.059 [main] INFO  dev.console.App - Implementation Logback
+14:47:12.901 [main] INFO  dev.console.App - Bonjour Slf4J  XXL!
+14:47:12.907 [main] INFO  dev.console.App - Implementation Logback
+14:47:28.752 [main] INFO  dev.console.App - Bonjour Slf4J !
+14:47:28.758 [main] INFO  dev.console.App - Implementation Logback
+14:48:08.746 [main] INFO  dev.console.App - Bonjour Slf4J !
+14:48:08.752 [main] INFO  dev.console.App - Implementation XXL Logback
+14:48:17.084 [main] INFO  dev.console.App - Bonjour Slf4J !
+14:48:17.103 [main] INFO  dev.console.App - Implementation Logback
+15:01:26.248 [main] INFO  dev.console.App - Bonjour Slf4J !
+15:01:26.255 [main] INFO  dev.console.App - Implementation Logback
+15:02:26.095 [main] INFO  dev.console.App - Bonjour Slf4J !
+15:02:26.101 [main] INFO  dev.console.App - Implementation Logback
+15:03:32.319 [main] INFO  dev.console.App - Bonjour Slf4J !
+15:03:32.324 [main] INFO  dev.console.App - Implementation Logback
+15:05:28.662 [main] INFO  dev.console.App - Bonjour Slf4J !
+15:05:28.673 [main] INFO  dev.console.App - Implementation Logback
+15:06:52.413 [main] INFO  dev.console.App - Bonjour Slf4J !
+15:06:52.431 [main] INFO  dev.console.App - Implementation Logback
+15:07:15.179 [main] INFO  dev.console.App - Bonjour Slf4J !
+15:07:15.187 [main] INFO  dev.console.App - Implementation Logback
+15:09:11.690 [main] INFO  dev.console.App - Bonjour Slf4J !
+15:09:11.695 [main] INFO  dev.console.App - Implementation Logback
